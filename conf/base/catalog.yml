@@ -1,0 +1,11 @@
+clientes_clusterizados:
+  type: pandas.ParquetDataset
+  filepath: data/07_model_output/clientes_clusterizados.parquet
+
+marcas_classificadas:
+  type: pandas.ParquetDataset
+  filepath: data/08_reporting/marcas_classificadas.parquet
+  save_args:
+    index: false
+
+
