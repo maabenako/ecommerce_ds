@@ -117,7 +117,7 @@ Sinta-se à vontade para contribuir com melhorias, ideias ou feedbacks!
 
 ## ⚠️📥 Antes de Começar:
 
-Faça o download dos datasets e armazene-os corretamente na pasta Fashion, pois é a partir deles que os arquivos Parquet serão gerados!
+Faça o download dos datasets e armazene-os corretamente na pasta 'Fashion', pois é a partir deles que os arquivos Parquet serão gerados!
 🔗 URL de acesso: https://encurtador.com.br/bnF4y
 
 ---
@@ -253,7 +253,7 @@ fashion-analysis/
 
 ## ⚠️📥 Before you start:
 
-Download the datasets and store them correctly in the Fashion folder, as it is from them that the Parquet files will be generated!
+Download the datasets and store them correctly in the 'Fashion' folder, as it is from them that the Parquet files will be generated!
 🔗 Access URL: https://encurtador.com.br/bnF4y
 
 ---
