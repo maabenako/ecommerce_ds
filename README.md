@@ -86,7 +86,20 @@ fashion-analysis/
 - Estatísticas descritivas para apoiar decisões de negócios
 - Análise temporal dos eventos por tipo e valor de compra
 - Agrupamento de sellers com base em comportamento para prospecção inteligente
+- Scripts auxiliares disponíveis na pasta Fashion/:
+- `analytics.py`: análises estatísticas e visuais dos dados
+- `forecast_monthly.py`: previsão de compras por mês
+- `forecast_user_brand.py`: previsão de compras por cliente e marca
+- `dashboards.py`: painel interativo com Streamlit para visualização dos resultados
 
+---
+
+## ▶️ Execução do Dashboard
+Para rodar o painel interativo, execute no terminal:
+
+```bash
+Fashion/dashboards.py
+```
 ---
 
 ## 📊 Dashboards Analíticos
@@ -229,6 +242,21 @@ fashion-analysis/
 - Descriptive statistics to support business decisions  
 - Temporal analysis of events by type and value  
 - Clustering of sellers for intelligent prospecting
+- Auxiliary scripts available in the Fashion/ folder:
+- `analytics.py`: statistical and visual analysis of data
+- `forecast_monthly.py`: forecast of purchases by month
+- `forecast_user_brand.py`: forecast of purchases by customer and brand
+- `dashboards.py`: interactive dashboard with Streamlit to visualize results
+
+---
+
+## ▶️ Running the Dashboard
+To run the interactive dashboard, run in the terminal:
+
+```bash
+Fashion/dashboards.py
+```
+---
 
 ---
 
